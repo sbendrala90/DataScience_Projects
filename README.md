@@ -1,2 +1,4 @@
 # DataScience_Projects
-This Repo is dedicated to My Data Science Capstone Projects and other data science related content that I am currently involved in doing.
+----
+
+This repository contains all the data and Jupyter notebooks for all the springboard data science intensive workshop exercises. It also contains some exercises that I did as part of the program.
