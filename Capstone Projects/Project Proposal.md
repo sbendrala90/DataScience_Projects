@@ -45,6 +45,6 @@ Zillow Home Value Index (ZHVI): A smoothed seasonally adjusted measure of the me
 3. **Presentation on the capstone project**:
 
 
-## 2. Credit Fraud Transactions
+## 2. Huge Stock Market Dataset
 
 see [Kaggle](https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs)
