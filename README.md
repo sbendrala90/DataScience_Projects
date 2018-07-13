@@ -2,7 +2,7 @@
 ----
 
 This repository is dedicated to My Data science course work in Springboard. It contains all the data and Jupyter notebooks for all the springboard data science intensive workshop exercises.
-![alt text](/Users/sbendrala/SpringBoard_Projects/DataScience_Summary.png "What is Data Science ? ")
+![alt text](https://api.ning.com/files/UNdbGkqHoSo0f-ssJhyebEYzZ5j4wdVQarJqw96YJImxhZVNTt9KZD4fBHWzVQtOfsgFR0vWpWv1sJbP0zwbks5WH15ST0zh/Capture.PNG "What is Data Science ? ")
 ## What can I look for ?
 * You can find some information related to Data Science, which include,
 	* Data Pre processing Techniques
